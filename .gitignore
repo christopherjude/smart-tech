@@ -1,0 +1,7 @@
+.vscode/
+transcoded/
+*.mp4
+venv/
+*.yuv
+*logs/
+*.png
